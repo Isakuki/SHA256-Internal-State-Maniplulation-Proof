@@ -4,7 +4,6 @@ State Maniplulation on Standard FIPS SHA
 
 ===============
 All rights reserved.
-
 This source code is proprietary and confidential. You may only view or run the code for personal evaluation purposes. You may not use, copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software without explicit written permission from the author.
 ===============
 
