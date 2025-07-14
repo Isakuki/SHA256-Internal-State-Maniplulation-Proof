@@ -15,40 +15,40 @@ I will provide a few examples of picking arbitrary values and collisions with th
 
 If you would like me to make you an input for your own choice of register value, contact me.
 
-In HEX(not text):
+In HEX(not text)📩:
 
 ---------------
 
 75c2745c50a50dc1104ffd8d272caa058f61682fc984977744f2f9b7c4c0a69f9f0b14751a2ce043fe1ca04ec71d918762974b3dc6ad7e7b
 
-a13: 0XDEADBEEF 
-b13: 0XDEADBEEF 
-c13: 0XDEADBEEF 
-d13: 0xDEADBEEF
+a13: 0XDEADBEEF ✅️
+b13: 0XDEADBEEF ✅️
+c13: 0XDEADBEEF ✅️
+d13: 0xDEADBEEF ✅️
 
 ---------------
 
 903411e83b055b9776973d4de35c0f5e285ffd3ba4225b3a1e2d694e983f676af188610c200e7012954e71b7e0ee2231416056a6ee6c5689
 
-a13: 0xCAFEBABE
-b13: 0xBABECAFE
-c13: 0XDEADBEED
-d13: 0xDEADBEEE
+a13: 0xCAFEBABE ✅️
+b13: 0xBABECAFE ✅️
+c13: 0XDEADBEED ✅️
+d13: 0xDEADBEEE ✅️
 
 ---------------
 
 9b86dc7bd7d65ff82d8a5daf3356d8f137cb59af51b29f1d3d231574171e77dc2c37986fa2e628ccbdf7dddcc318cf00adb61b753b0cc7f2
 
-a13: 0x0BADF00D
-b13: 0xBADF00D0
-c13: 0xBABEF00D
-d13: 0xF00DBABE
+a13: 0x0BADF00D ✅️
+b13: 0xBADF00D0 ✅️
+c13: 0xBABEF00D ✅️
+d13: 0xF00DBABE ✅️
 
 ---------------
 
-☆☆☆☆☆☆☆☆☆☆
-Collisions Examples in HEX(not text):
-^^^^^^^^^^^^^^^
+
+Collisions Examples in HEX(not text)📩:
+
 
 ---------------
 
@@ -58,10 +58,10 @@ and
 
 9c80a434d778fc6dfc1786c669ead053e5c3c9b47c4cc2aef35429295947bdabd68afc5cda209e867870c5f788b3bbf007aeb61f483f7f9e
 
-a13: 0XDEADBEEF 
-b13: 0XDEADBEEF 
-c13: 0XDEADBEEF 
-d13: 0xDEADBEEF 
+a13: 0XDEADBEEF ✅️
+b13: 0XDEADBEEF ✅️
+c13: 0XDEADBEEF ✅️
+d13: 0xDEADBEEF ✅️
 
 --------------
 
@@ -71,10 +71,10 @@ and
 
 610c048430053d3f887aeb7f26f3159996d6efc0dd59892884541fa172493db4675412fbec11d9af1778b47070301e4d537ca2104bb26992
 
-a13: 0xCAFEBABE 
-b13: 0xBABECAFE
-c13: 0xF00DBABE
-d13: 0x12345678
+a13: 0xCAFEBABE ✅️
+b13: 0xBABECAFE ✅️
+c13: 0xF00DBABE ✅️
+d13: 0x12345678 ✅️
 
 ---------------
 
